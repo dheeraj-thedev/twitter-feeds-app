@@ -73,7 +73,7 @@ thinc==7.0.8
 tqdm==4.46.0
 tweepy==3.9.0
 twofish==0.3.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.25
 wasabi==0.6.0
 Werkzeug==0.16.0
